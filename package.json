@@ -1,0 +1,19 @@
+{
+  "name": "generator-spa",
+  "version": "1.0.0",
+  "description": "Yeoman generator, using to generator skylark spa base structure",
+  "keywords": [
+    "spa",
+    "yeoman",
+    "generator"
+  ],
+  "author": "lhw@hudaokeji.com",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/honwlee/generator-spa.git"
+    },
+  "dependencies": {
+    "yeoman-generator": "~0.18.10"
+  },
+  "license": "MIT"
+}
